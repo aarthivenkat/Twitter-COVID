@@ -1,4 +1,4 @@
-**Twitter-based analysis reveals differential COVID-19 concerns across areas with socioeconomic disparities  **
+**Twitter-based analysis reveals differential COVID-19 concerns across areas with socioeconomic disparities**  
 
 Yihua Su<sup>1*</sup>, Aarthi Venkat<sup>2*</sup>, Yadush Yadav<sup>1</sup>, Lisa B. Puglisi<sup>3,4</sup>, Samah J. Fodeh<sup>1,2,5</sup>  
 
