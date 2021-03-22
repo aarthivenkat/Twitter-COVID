@@ -1,5 +1,5 @@
 **Twitter-based analysis reveals differential COVID-19 concerns across areas with socioeconomic disparities**  
-Published in ![_Computers in Biology and Medicine_](https://authors.elsevier.com/c/1cmxa_FGGiQuY) in March 2021. 
+Published in [_Computers in Biology and Medicine_](https://authors.elsevier.com/c/1cmxa_FGGiQuY) in March 2021. 
 
 Yihua Su<sup>1*</sup>, Aarthi Venkat<sup>2*</sup>, Yadush Yadav<sup>1</sup>, Lisa B. Puglisi<sup>3,4</sup>, Samah J. Fodeh<sup>1,2,5</sup>  
 
